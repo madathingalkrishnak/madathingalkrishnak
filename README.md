@@ -72,13 +72,5 @@ I build end-to-end ML systems — from messy data to production APIs. Graph reco
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madathingalkrishnak&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madathingalkrishnak&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
-
----
 
 <sub>Currently open to **Data Scientist**, **ML Engineer**, **Data Engineer**, and **AI Engineer** roles in the US. Let's talk → [madathingalkrishna@gmail.com](mailto:madathingalkrishna@gmail.com)</sub>
