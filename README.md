@@ -5,7 +5,7 @@
 I build end-to-end ML systems — from messy data to production APIs. Graph recommenders, real-time forecasting, RAG pipelines, neuroimaging workflows. If it involves wrangling data into something useful, I'm probably interested.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna--km-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-km/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishnakishore.dev-5B3A8C?style=flat&logo=googlechrome&logoColor=white)](https://madathingalkrishnak.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-madathingalkrishnak.github.io-5B3A8C?style=flat&logo=googlechrome&logoColor=white)](https://madathingalkrishnak.github.io/)
 [![Email](https://img.shields.io/badge/Email-madathingalkrishna@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:madathingalkrishna@gmail.com)
 
 ---
