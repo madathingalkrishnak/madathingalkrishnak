@@ -73,4 +73,4 @@ I build end-to-end ML systems — from messy data to production APIs. Graph reco
 ---
 
 
-<sub>Currently open to **Data Scientist**, **ML Engineer**, **Data Engineer**, and **AI Engineer** roles in the US. Let's talk → [madathingalkrishna@gmail.com](mailto:madathingalkrishna@gmail.com)</sub>
+<sub>Currently open to **Data Scientist**, **Data Engineer**, and **ML Engineer** roles in the US. Let's talk → [madathingalkrishna@gmail.com](mailto:madathingalkrishna@gmail.com)</sub>
