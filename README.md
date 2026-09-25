@@ -1,6 +1,6 @@
 # Hey, I'm Krishna 👋
 
-**Data Scientist & ML Engineer** · MS in Data Science @ Indiana University Bloomington (3.97 GPA)
+**Data Scientist · ML Engineer · Data Engineer** · MS in Data Science @ Indiana University Bloomington (3.97 GPA)
 
 I build end-to-end ML systems — from messy data to production APIs. Graph recommenders, real-time forecasting, RAG pipelines, neuroimaging workflows. If it involves wrangling data into something useful, I'm probably interested.
 
@@ -10,10 +10,9 @@ I build end-to-end ML systems — from messy data to production APIs. Graph reco
 
 ---
 
-### 🔭 What I'm working on
+### 🔭 Right now
 
-- **Graph-based Recommendation Engine** @ [Project 990 Inc.](https://project990.org/) — GNN link prediction over 150K+ nonprofit organizations and millions of grant relationships. Built a hybrid reranker that lifted top-20 recall by 36%.
-- **Neuroimaging Data Pipelines** @ Indiana University — Automated ingestion, validation, and quality control for 2,000+ subject brain imaging datasets on HPC.
+- **Data Scientist & Data Engineer** @ [Project 990 Inc.](https://project990.org/) — On the DS side, trained a GNN recommendation engine on 150K+ orgs with a hybrid reranker that lifted top-20 recall by 36%. On the DE side, migrated legacy ETL to production Python pipelines processing 14.8M+ grant records, built entity resolution and deduplication frameworks across a multi-table MySQL schema with zero integrity violations.
 
 ---
 
